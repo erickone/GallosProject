@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GallosContracts", "GallosContracts\GallosContracts.csproj", "{4A8CEBB5-B479-4795-961C-27FFEDB3E149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GallosPresentation", "GallosPresentation\GallosPresentation.csproj", "{D798FF43-34A2-4250-A288-14FAB4B60CD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GallosManagement", "GallosManagement\GallosManagement.csproj", "{BD0C74BA-A7CF-409F-B52C-652B4F3B30FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A8CEBB5-B479-4795-961C-27FFEDB3E149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8CEBB5-B479-4795-961C-27FFEDB3E149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8CEBB5-B479-4795-961C-27FFEDB3E149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8CEBB5-B479-4795-961C-27FFEDB3E149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D798FF43-34A2-4250-A288-14FAB4B60CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D798FF43-34A2-4250-A288-14FAB4B60CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D798FF43-34A2-4250-A288-14FAB4B60CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D798FF43-34A2-4250-A288-14FAB4B60CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0C74BA-A7CF-409F-B52C-652B4F3B30FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0C74BA-A7CF-409F-B52C-652B4F3B30FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0C74BA-A7CF-409F-B52C-652B4F3B30FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0C74BA-A7CF-409F-B52C-652B4F3B30FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
